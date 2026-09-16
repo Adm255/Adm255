@@ -1,30 +1,24 @@
 # Hi, I'm Adam Annour Idriss
 
-### Network & Communication Systems Student | Software Development & Cybersecurity
+### Network & Communication Systems Student | Learning Software Development & Cybersecurity
 
-I am a Network & Communication Systems student at the Adventist University of Central Africa (AUCA), building practical skills across **software development, networking, and cybersecurity**.
+I am a student of **Network & Communication Systems** at the Adventist University of Central Africa (AUCA).
 
-I enjoy learning by building projects, working through technical labs, and documenting what I learn.
+I'm still learning and building my skills step by step across **networking, software development, and cybersecurity**. I enjoy practicing what I learn through projects, labs, experiments, and documentation.
+
+This GitHub is a record of my learning journey — including things I'm currently learning, projects I'm building, and technical challenges I'm working through.
 
 ## About Me
 
-- 🎓 Bachelor's student in **Network & Communication Systems** at AUCA
-- 💻 Building skills in **software development and backend/frontend technologies**
-- 🌐 Developing practical knowledge in **computer networking**
-- 🔐 Exploring **cybersecurity, SOC operations, vulnerability assessment, and penetration testing**
-- 🧪 Learning through hands-on labs, projects, and technical exercises
-- 🏆 SOLVIT Code2Connect Career Fellow — Cybersecurity Track
+- 🎓 Bachelor's student in **Network & Communication Systems**
+- 🌐 Learning **computer networking** and network technologies
+- 💻 Learning **software development**, with an interest in full-stack development
+- 🔐 Exploring **cybersecurity** and security operations
+- 🧪 Learning through hands-on labs, projects, and experimentation
+- 📚 Continuously improving my technical and problem-solving skills
+- 🏆 SOLVIT Africa Code2Connect Career Fellow — Cybersecurity Track
 
-## What I'm Currently Learning
-
-### Software Development
-- Java
-- Spring Boot
-- JavaScript
-- React
-- PostgreSQL
-- REST APIs
-- Git & GitHub
+## What I'm Learning
 
 ### Networking
 - TCP/IP
@@ -36,8 +30,17 @@ I enjoy learning by building projects, working through technical labs, and docum
 - Cisco Packet Tracer
 - GNS3
 
+### Software Development
+- Java
+- Spring Boot
+- JavaScript
+- React
+- PostgreSQL
+- REST APIs
+- Git & GitHub
+
 ### Cybersecurity
-- Security fundamentals
+- Cybersecurity fundamentals
 - Linux security
 - Vulnerability assessment
 - Penetration testing
@@ -46,31 +49,33 @@ I enjoy learning by building projects, working through technical labs, and docum
 - Network security monitoring
 - Incident response
 
-## Featured Work
+## My Projects & Labs
+
+I use GitHub to document my practical learning.
 
 ### Cybersecurity Labs
-A growing collection of practical cybersecurity exercises, investigations, notes, and SOC work.
+
+Hands-on exercises and labs covering areas such as:
+
+- Linux log analysis
+- SOC investigation
+- Network security
+- Vulnerability assessment
+- Authorized penetration-testing labs
+- Incident analysis and documentation
 
 **Repository:**  
 [Cybersecurity-Labs](https://github.com/Adm255/Cybersecurity-Labs)
 
-Current work includes:
-
-- Linux authentication log analysis
-- SOC investigation exercises
-- Network security labs
-- Penetration-testing labs in authorized environments
-- Cybersecurity documentation and incident analysis
-
 ### Software Projects
 
-I also work on software development projects involving:
+I'm also building software projects to strengthen my development skills, including work with:
 
-- Spring Boot backend APIs
-- React frontends
-- PostgreSQL databases
-- REST API testing
-- Git and GitHub workflows
+- Spring Boot
+- React
+- PostgreSQL
+- REST APIs
+- Git & GitHub
 
 ## Certifications & Training
 
@@ -80,11 +85,13 @@ I also work on software development projects involving:
 - AUCA — IT Support System Training
 - SOLVIT Africa — Code2Connect Career Fellowship, Cybersecurity Track
 
-## My Approach
+## How I Learn
 
-> Learn. Build. Test. Document. Improve.
+> **Learn → Practice → Build → Document → Improve**
 
-I believe the best way to develop technical skills is to combine theory with practical work and continuously document the journey.
+I'm not here to pretend I know everything.
+
+I'm here to **learn, build, make mistakes, understand them, and keep improving step by step.**
 
 ## Connect With Me
 
