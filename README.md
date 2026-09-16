@@ -49,6 +49,34 @@ This GitHub is a record of my learning journey — including things I'm currentl
 - Network security monitoring
 - Incident response
 
+## Learning Roadmap
+
+### Networking
+- [x] Networking fundamentals
+- [x] Basic routing and switching
+- [ ] Advanced routing
+- [ ] Network troubleshooting
+- [ ] Network automation
+
+### Software Development
+- [x] Programming fundamentals
+- [x] JavaScript fundamentals
+- [ ] Java & Spring Boot development
+- [ ] React development
+- [ ] Full-stack projects
+- [ ] Build and deploy a complete application
+
+### Cybersecurity
+- [x] Cybersecurity fundamentals
+- [x] Linux security basics
+- [x] Basic penetration-testing labs
+- [x] Basic log analysis
+- [ ] SOC operations
+- [ ] Vulnerability assessment
+- [ ] Digital forensics
+- [ ] Incident response
+- [ ] Security automation
+
 ## My Projects & Labs
 
 I use GitHub to document my practical learning.
