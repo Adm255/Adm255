@@ -1,70 +1,91 @@
-# 👋 Hi, I'm Adam Annour Idriss
+# Hi, I'm Adam Annour Idriss
 
-## 🛡️ Cybersecurity Student | Ethical Hacker | SOLVIT Fellow
+### Network & Communication Systems Student | Software Development & Cybersecurity
 
-📍 **Kigali, Rwanda**  
-🎓 **Adventist University of Central Africa (AUCA)**  
-🏆 **SOLVIT Code2Connect Career Fellow** (Cybersecurity Track)
+I am a Network & Communication Systems student at the Adventist University of Central Africa (AUCA), building practical skills across **software development, networking, and cybersecurity**.
 
----
+I enjoy learning by building projects, working through technical labs, and documenting what I learn.
 
-## 🔥 What I'm Working On
+## About Me
 
-### 🚀 Cybersecurity-Labs
-Building a hands-on cybersecurity portfolio with real exploits.
+- 🎓 Bachelor's student in **Network & Communication Systems** at AUCA
+- 💻 Building skills in **software development and backend/frontend technologies**
+- 🌐 Developing practical knowledge in **computer networking**
+- 🔐 Exploring **cybersecurity, SOC operations, vulnerability assessment, and penetration testing**
+- 🧪 Learning through hands-on labs, projects, and technical exercises
+- 🏆 SOLVIT Code2Connect Career Fellow — Cybersecurity Track
 
-🔗 [github.com/Adm255/Cybersecurity-Labs](https://github.com/Adm255/Cybersecurity-Labs)
+## What I'm Currently Learning
 
-### ✅ Completed Exploits
-- 🏴 **Samba Usermap Script (CVE-2007-2447)** — Gained root access on Metasploitable 2
-- 🏴 **vsftpd 2.3.4 Backdoor** — Gained root access on Metasploitable 2
+### Software Development
+- Java
+- Spring Boot
+- JavaScript
+- React
+- PostgreSQL
+- REST APIs
+- Git & GitHub
 
-### 🔄 In Progress
-- PostgreSQL Default Credentials
-- UnrealIRCd Backdoor
-- Tomcat Manager Deploy
+### Networking
+- TCP/IP
+- Routing & Switching
+- OSPF
+- MPLS
+- VPNs
+- Network troubleshooting
+- Cisco Packet Tracer
+- GNS3
 
----
+### Cybersecurity
+- Security fundamentals
+- Linux security
+- Vulnerability assessment
+- Penetration testing
+- SOC operations
+- Log analysis
+- Network security monitoring
+- Incident response
 
-## 🛠️ Tools I Use
+## Featured Work
 
-| Category | Tools |
-|----------|-------|
-| **Pentesting** | Metasploit, Nmap, Netdiscover |
-| **Web Security** | Burp Suite, Nikto, SQLmap |
-| **Password Cracking** | John the Ripper, Hashcat |
-| **Scripting** | Bash, Python |
-| **OS** | Kali Linux, Ubuntu, Windows |
+### Cybersecurity Labs
+A growing collection of practical cybersecurity exercises, investigations, notes, and SOC work.
 
----
+**Repository:**  
+[Cybersecurity-Labs](https://github.com/Adm255/Cybersecurity-Labs)
 
-## 📊 GitHub Stats
+Current work includes:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adm255&show_icons=true&theme=dark)
+- Linux authentication log analysis
+- SOC investigation exercises
+- Network security labs
+- Penetration-testing labs in authorized environments
+- Cybersecurity documentation and incident analysis
 
----
+### Software Projects
 
-## 📫 Connect With Me
+I also work on software development projects involving:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adam-annour-idriss)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Adm255)
+- Spring Boot backend APIs
+- React frontends
+- PostgreSQL databases
+- REST API testing
+- Git and GitHub workflows
 
-📧 **Email:** adamannourannouridriss@gmail.com
+## Certifications & Training
 
----
+- Internet Society — Introduction to Network Operations
+- Internet Society — Advanced Network Operations
+- Cisco Networking Academy — Networking Fundamentals
+- AUCA — IT Support System Training
+- SOLVIT Africa — Code2Connect Career Fellowship, Cybersecurity Track
 
-## 🎯 My Goals
+## My Approach
 
-- [x] Exploit Samba and vsftpd
-- [ ] Complete 5 exploits on Metasploitable 2
-- [ ] Complete 5 Hack The Box machines
-- [ ] Build custom pentesting scripts in Python
-- [ ] Earn CompTIA Security+ certification
+> Learn. Build. Test. Document. Improve.
 
----
+I believe the best way to develop technical skills is to combine theory with practical work and continuously document the journey.
 
-> *"The best defense is a good offense."*
+## Connect With Me
 
----
-
-⭐ **Check out my Cybersecurity Labs:** [Adm255/Cybersecurity-Labs](https://github.com/Adm255/Cybersecurity-Labs)
+📧 Email: adamannourannouridriss@gmail.com
